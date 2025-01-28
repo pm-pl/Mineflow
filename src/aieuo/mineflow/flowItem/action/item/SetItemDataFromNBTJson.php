@@ -15,7 +15,7 @@ use aieuo\mineflow\Mineflow;
 use aieuo\mineflow\utils\Language;
 use pocketmine\nbt\JsonNbtParser;
 use pocketmine\nbt\NbtException;
-use SOFe\AwaitGenerator\Await;
+use aieuo\mineflow\libs\_93ed664ac82a72f2\SOFe\AwaitGenerator\Await;
 
 class SetItemDataFromNBTJson extends SimpleAction {
 

@@ -5,7 +5,7 @@ declare(strict_types=1);
 namespace aieuo\mineflow\flowItem\action\entity;
 
 use aieuo\mineflow\flowItem\FlowItemExecutor;
-use SOFe\AwaitGenerator\Await;
+use aieuo\mineflow\libs\_93ed664ac82a72f2\SOFe\AwaitGenerator\Await;
 
 class SetHealth extends SetHealthBase {
 

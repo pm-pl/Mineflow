@@ -7,7 +7,7 @@ namespace aieuo\mineflow\flowItem\action\player\permission;
 use aieuo\mineflow\flowItem\FlowItemCategory;
 use aieuo\mineflow\flowItem\FlowItemExecutor;
 use aieuo\mineflow\Main;
-use SOFe\AwaitGenerator\Await;
+use aieuo\mineflow\libs\_93ed664ac82a72f2\SOFe\AwaitGenerator\Await;
 
 class AddPermission extends AddPermissionBase {
 

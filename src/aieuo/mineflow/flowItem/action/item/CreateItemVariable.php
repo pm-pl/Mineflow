@@ -18,7 +18,7 @@ use aieuo\mineflow\variable\object\ItemVariable;
 use pocketmine\item\LegacyStringToItemParser;
 use pocketmine\item\LegacyStringToItemParserException;
 use pocketmine\item\StringToItemParser;
-use SOFe\AwaitGenerator\Await;
+use aieuo\mineflow\libs\_93ed664ac82a72f2\SOFe\AwaitGenerator\Await;
 
 class CreateItemVariable extends SimpleAction {
 

@@ -6,7 +6,7 @@ namespace aieuo\mineflow\flowItem\condition\entity;
 
 use aieuo\mineflow\flowItem\FlowItemExecutor;
 use pocketmine\entity\Living;
-use SOFe\AwaitGenerator\Await;
+use aieuo\mineflow\libs\_93ed664ac82a72f2\SOFe\AwaitGenerator\Await;
 
 class IsCreatureVariable extends CheckEntityState {
 

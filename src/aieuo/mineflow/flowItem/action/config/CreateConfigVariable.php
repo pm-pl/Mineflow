@@ -16,7 +16,7 @@ use aieuo\mineflow\utils\Language;
 use aieuo\mineflow\utils\Utils;
 use aieuo\mineflow\variable\DummyVariable;
 use aieuo\mineflow\variable\object\ConfigVariable;
-use SOFe\AwaitGenerator\Await;
+use aieuo\mineflow\libs\_93ed664ac82a72f2\SOFe\AwaitGenerator\Await;
 
 class CreateConfigVariable extends SimpleAction {
 

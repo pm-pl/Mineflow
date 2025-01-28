@@ -14,7 +14,7 @@ use aieuo\mineflow\Mineflow;
 use aieuo\mineflow\variable\IteratorVariable;
 use aieuo\mineflow\variable\NumberVariable;
 use aieuo\mineflow\variable\registry\VariableRegistry;
-use SOFe\AwaitGenerator\Await;
+use aieuo\mineflow\libs\_93ed664ac82a72f2\SOFe\AwaitGenerator\Await;
 
 class SetConfigData extends SimpleAction {
 

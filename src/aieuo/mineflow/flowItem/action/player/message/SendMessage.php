@@ -6,7 +6,7 @@ namespace aieuo\mineflow\flowItem\action\player\message;
 
 use aieuo\mineflow\flowItem\FlowItemExecutor;
 use aieuo\mineflow\utils\Language;
-use SOFe\AwaitGenerator\Await;
+use aieuo\mineflow\libs\_93ed664ac82a72f2\SOFe\AwaitGenerator\Await;
 
 class SendMessage extends TypePlayerMessage {
 

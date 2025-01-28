@@ -9,7 +9,7 @@ use aieuo\mineflow\utils\Language;
 use aieuo\mineflow\utils\Utils;
 use pocketmine\command\CommandSender;
 use pocketmine\utils\TextFormat;
-use SOFe\AwaitGenerator\Await;
+use aieuo\mineflow\libs\_93ed664ac82a72f2\SOFe\AwaitGenerator\Await;
 use function count;
 
 class AddonCommand extends MineflowSubcommand {
